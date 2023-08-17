@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Arsalan-portfolio/static/css/main.29b94f31.css",
-    "main.js": "/Arsalan-portfolio/static/js/main.c1500990.js",
+    "main.js": "/Arsalan-portfolio/static/js/main.8b4e8251.js",
     "static/media/imdb.jpg.png": "/Arsalan-portfolio/static/media/imdb.jpg.5a686a39614fe5e31f32.png",
     "static/media/zf-mobiles.jpg.png": "/Arsalan-portfolio/static/media/zf-mobiles.jpg.4e5c181b2961f5b41d61.png",
     "static/media/e-commerce.jpg.png": "/Arsalan-portfolio/static/media/e-commerce.jpg.b5cb64dae51c1219a5e3.png",
@@ -10,7 +10,6 @@
     "static/media/react-cert.png": "/Arsalan-portfolio/static/media/react-cert.e160403a94d5cb856a27.png",
     "static/media/mongo.png": "/Arsalan-portfolio/static/media/mongo.436d1758b979124ec863.png",
     "static/media/nodejs.png": "/Arsalan-portfolio/static/media/nodejs.464a108fc8ac2e1b92e1.png",
-    "static/media/info-removebg-preview.jpg": "/Arsalan-portfolio/static/media/info-removebg-preview.7329099ed6b5b5ac44af.jpg",
     "static/media/sec-msg.jpg.png": "/Arsalan-portfolio/static/media/sec-msg.jpg.054467585ede2fab36e6.png",
     "static/media/insta.jpg": "/Arsalan-portfolio/static/media/insta.b5a8baad084ce6a94cbc.jpg",
     "static/media/java certificate.JPG": "/Arsalan-portfolio/static/media/java certificate.3a1dbf95914ee1df9303.JPG",
@@ -24,10 +23,10 @@
     "static/media/arsalan-logo-removebg-preview.png": "/Arsalan-portfolio/static/media/arsalan-logo-removebg-preview.2b1a4f516da4a9c650e6.png",
     "index.html": "/Arsalan-portfolio/index.html",
     "main.29b94f31.css.map": "/Arsalan-portfolio/static/css/main.29b94f31.css.map",
-    "main.c1500990.js.map": "/Arsalan-portfolio/static/js/main.c1500990.js.map"
+    "main.8b4e8251.js.map": "/Arsalan-portfolio/static/js/main.8b4e8251.js.map"
   },
   "entrypoints": [
     "static/css/main.29b94f31.css",
-    "static/js/main.c1500990.js"
+    "static/js/main.8b4e8251.js"
   ]
 }
