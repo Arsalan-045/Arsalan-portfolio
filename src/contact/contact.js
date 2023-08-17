@@ -19,7 +19,7 @@ const Contact = () => {
             <p>arsalanmudassir2001@gmail.com</p>
           </li>
           <li>
-            <i className="fa-solid fa-envelope"></i>
+            <i className="fa-solid fa-phone-square"></i>
             <strong>Call:</strong>
             <a href="tel:+91 8106602691" style={{ textDecoration: 'none', cursor: 'pointer' }}>
               <p>+91 8106602691</p>
@@ -29,6 +29,7 @@ const Contact = () => {
 
         <div className="map">
           <iframe
+          title='my map'
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d951.5428852827791!2d78.42887065399829!3d17.4515018072954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb911354b69f0f%3A0x79bd69db1e1edf88!2sArsalan%20Trades!5e0!3m2!1sen!2sin!4v1678811652987!5m2!1sen!2sin"
             width="600"
             height="450"

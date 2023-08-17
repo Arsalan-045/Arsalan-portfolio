@@ -1,11 +1,12 @@
 .project-component {
     text-align: center;
+    font-size: 18px;
     padding: 20px;
     color: #777;
   }
   
   .project-heading {
-    font-size: 2rem;
+    font-size: 1rem;
     color: #2c8fb5;
     margin-bottom: 20px;
   }

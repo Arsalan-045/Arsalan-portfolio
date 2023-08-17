@@ -1,9 +1,9 @@
 // src/components/InfoSection.js
 import React from 'react';
 import './info.css';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 // import resumeImage from '../images/resume-image.jpg';
-import infoImage from "./images/info-removebg-preview.jpg"
+// import infoImage from "./images/info-removebg-preview.jpg"
 import arImg from "./images/arsalan-pr.png"
 
 
